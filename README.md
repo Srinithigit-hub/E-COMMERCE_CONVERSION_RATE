@@ -4,6 +4,8 @@ A modern, full-stack e-commerce platform designed for a seamless shopping experi
 🔗 View Live Site | 🖥️ Admin Dashboard
 
 ✨ Key Features
+
+
 🔒 Secure Authentication: JWT-based user login, registration, and password recovery via OAuth.
 🔍 Advanced Search & Filter: Dynamic product filtering by category, price range, ratings, and real-time text search.
 🛒 Shopping Cart & Checkout: Persistent local-storage cart, real-time inventory checks, and single-page checkout.
