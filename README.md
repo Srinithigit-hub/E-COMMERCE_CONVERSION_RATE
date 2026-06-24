@@ -117,6 +117,8 @@ plt.show()
 # 2. Payment Method Distribution
 plt.figure(figsize=(8, 5))
 sns.countplot(data=df, x='Payment_Method', palette='pastel', order=df['Payment_Method'].value_counts().index)
+
+
 plt.title('Payment Method Distribution')
 plt.xlabel('Payment Method')
 plt.ylabel('Count')
