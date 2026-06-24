@@ -111,6 +111,7 @@ plt.title('Product Category Distribution')
 plt.xlabel('Category')
 plt.ylabel('Count')
 plt.xticks(rotation=45)
+
 plt.show()
 
 # 2. Payment Method Distribution
