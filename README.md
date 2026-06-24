@@ -183,8 +183,18 @@ df['Cluster'] = kmeans.fit_predict(clustering_features_scaled)
 # Plot the clusters
 plt.figure(figsize=(10, 6))
 sns.scatterplot(x='Price (Rs.)', y='Discount (%)', hue='Cluster', data=df, palette='Set1', s=100)
+
+
 plt.title('Clustering Users Based on Purchase Behavior')
+
+
 plt.xlabel('Price (Rs.)')
+
+
 plt.ylabel('Discount (%)')
+
+
 plt.legend(title='Cluster')
+
+
 plt.show()
