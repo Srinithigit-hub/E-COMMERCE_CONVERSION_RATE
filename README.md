@@ -122,6 +122,7 @@ sns.countplot(data=df, x='Payment_Method', palette='pastel', order=df['Payment_M
 plt.title('Payment Method Distribution')
 plt.xlabel('Payment Method')
 plt.ylabel('Count')
+
 plt.show()
 
  First, let's encode categorical variables
