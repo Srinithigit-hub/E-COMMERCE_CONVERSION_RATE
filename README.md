@@ -103,6 +103,8 @@ AUTHOR : SRINITHI
 CODE:
 
  1. Category Distribution
+
+
 plt.figure(figsize=(10, 6))
 sns.countplot(data=df, x='Category', palette='viridis', order=df['Category'].value_counts().index)
 plt.title('Product Category Distribution')
