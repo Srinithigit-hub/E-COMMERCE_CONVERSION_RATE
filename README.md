@@ -3,7 +3,7 @@ A modern, full-stack e-commerce platform designed for a seamless shopping experi
 
 🔗 View Live Site | 🖥️ Admin Dashboard
 
-✨ Key Features
+✨ Key Features:
 
 
 ●🔒 Secure Authentication: JWT-based user login, registration, and password recovery via OAuth.
@@ -24,7 +24,9 @@ A modern, full-stack e-commerce platform designed for a seamless shopping experi
 ●📱 Fully Responsive UI: Optimized layout for desktop, tablet, and mobile devices using CSS Grid and Flexbox.
 
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
+
+
 Layer	Technologies Used
 Frontend	React.js, Tailwind CSS, Redux Toolkit (State Management)
 Backend	Node.js, Express.js
