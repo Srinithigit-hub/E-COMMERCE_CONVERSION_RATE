@@ -10,10 +10,20 @@ A modern, full-stack e-commerce platform designed for a seamless shopping experi
 
 
 ●🔍 Advanced Search & Filter: Dynamic product filtering by category, price range, ratings, and real-time text search.
+
+
 ●🛒 Shopping Cart & Checkout: Persistent local-storage cart, real-time inventory checks, and single-page checkout.
+
+
 ●💳 Payment Integration: Secure sandbox payment processing integrated via Stripe / PayPal.
+
+
 ●📊 Admin Analytics Panel: Management suite for updating stock, tracking revenue metrics, and handling order fulfillment statuses.
+
+
 ●📱 Fully Responsive UI: Optimized layout for desktop, tablet, and mobile devices using CSS Grid and Flexbox.
+
+
 🛠️ Tech Stack
 Layer	Technologies Used
 Frontend	React.js, Tailwind CSS, Redux Toolkit (State Management)
