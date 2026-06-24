@@ -70,7 +70,11 @@ Clone the Repository:
 
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
-Installation & Local Run
+
+
+Installation & Local Run:
+
+
 You can run both client and server concurrently, or spin them up in separate terminals.
 
 🗺️ API Endpoint Preview
