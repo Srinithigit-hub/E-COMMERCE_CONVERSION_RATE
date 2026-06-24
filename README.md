@@ -133,6 +133,7 @@ df_encoded = pd.get_dummies(df_encoded, columns=['Payment_Method'], drop_first=T
 
 # Prepare features (X) and target (y)
 X = df_encoded[['Price (Rs.)', 'Discount (%)'] + [col for col in df_encoded.columns if 'Payment_Method' in col]]
+
 y = df_encoded['Final_Price(Rs.)']
 
 # Train-Test Split
