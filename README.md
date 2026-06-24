@@ -81,6 +81,8 @@ You can run both client and server concurrently, or spin them up in separate ter
 
 
 Method	 Endpoint 	Description	Auth Required
+
+
 GET	/api/products	Fetch all products with pagination	No
 
 
