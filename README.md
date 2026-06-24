@@ -176,6 +176,8 @@ clustering_features_scaled = scaler.fit_transform(clustering_features)
 
 # Applying K-Means Clustering
 kmeans = KMeans(n_clusters=4, random_state=42)
+
+
 df['Cluster'] = kmeans.fit_predict(clustering_features_scaled)
 
 # Plot the clusters
