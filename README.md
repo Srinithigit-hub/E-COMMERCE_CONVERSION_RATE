@@ -27,12 +27,12 @@ A modern, full-stack e-commerce platform designed for a seamless shopping experi
 🛠️ Tech Stack:
 
 
-Layer	Technologies Used
-Frontend	React.js, Tailwind CSS, Redux Toolkit (State Management)
-Backend	Node.js, Express.js
-Database	MongoDB (Mongoose ORM) / PostgreSQL
-Payments	Stripe API
-Hosting	Vercel (Frontend), Render / AWS (Backend)
+Layer:	Technologies Used
+Frontend:	React.js, Tailwind CSS, Redux Toolkit (State Management)
+Backend	:Node.js, Express.js
+Database	:MongoDB (Mongoose ORM) / PostgreSQL
+Payments	:Stripe API
+Hosting	:Vercel (Frontend), Render / AWS (Backend)
 ⚙️ Getting Started
 Follow these steps to set up the project locally on your machine.
 
