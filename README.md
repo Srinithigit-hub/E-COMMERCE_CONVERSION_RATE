@@ -43,7 +43,11 @@ Payments	:Stripe API
 
 
 Hosting	:Vercel (Frontend), Render / AWS (Backend)
-⚙️ Getting Started
+
+
+⚙️ Getting Started:
+
+
 Follow these steps to set up the project locally on your machine.
 
 Prerequisites
