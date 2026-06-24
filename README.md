@@ -77,11 +77,15 @@ Installation & Local Run:
 
 You can run both client and server concurrently, or spin them up in separate terminals.
 
-🗺️ API Endpoint Preview
-Method	Endpoint	Description	Auth Required
+🗺️ API Endpoint Preview:
+
+
+Method	 Endpoint 	Description	Auth Required
 GET	/api/products	Fetch all products with pagination	No
 GET	/api/products/:id	Fetch details for a specific item	No
 POST	/api/cart	Sync local cart to user profile	Yes
 POST	/api/orders	Create a new order after checkout	Yes
 GET	/api/admin/analytics	Fetch sales stats (Admin only)	Yes
-AUTHOR : MADHUMITHA LOGANATHAN
+
+
+AUTHOR : SRINITHI
