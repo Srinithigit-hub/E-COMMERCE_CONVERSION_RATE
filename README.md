@@ -50,11 +50,13 @@ Hosting	:Vercel (Frontend), Render / AWS (Backend)
 
 Follow these steps to set up the project locally on your machine.
 
-Prerequisites
-Node.js (v18.x or higher)
-npm or yarn
-A free MongoDB Atlas account (or local MongoDB setup)
-A Stripe Developer Account (for API keys)
+Prerequisites:
+
+
+●Node.js (v18.x or higher)
+●npm or yarn
+●A free MongoDB Atlas account (or local MongoDB setup)
+●A Stripe Developer Account (for API keys)
 Clone the Repository
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
