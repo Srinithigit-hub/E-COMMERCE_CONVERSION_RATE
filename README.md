@@ -164,6 +164,7 @@ print(f'R2 Score: {r2}')
 
 from sklearn.cluster import KMeans
 
+
 from sklearn.preprocessing import StandardScaler
 
 # Select features for clustering
