@@ -54,10 +54,20 @@ Prerequisites:
 
 
 ●Node.js (v18.x or higher)
+
+
 ●npm or yarn
+
+
 ●A free MongoDB Atlas account (or local MongoDB setup)
+
+
 ●A Stripe Developer Account (for API keys)
-Clone the Repository
+
+
+Clone the Repository:
+
+
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
 Installation & Local Run
